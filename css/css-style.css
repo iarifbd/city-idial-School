@@ -13,6 +13,7 @@ html,
 body {
 	height: 100%;
 	font-family: 'Rubik', sans-serif;
+	background-image: url('http://localhost/city-idial-School/images/bangladesh.png');
 }
 
 
@@ -338,7 +339,7 @@ ul {
 -----------------------*/
 
 .hs-item {
-	min-height: 760px;
+	min-height: 360px;
 	position: relative;
 	display: table;
 	width: 100%;
