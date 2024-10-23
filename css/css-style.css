@@ -11,9 +11,8 @@
 
 html,
 body {
-	height: 100%;
-	font-family: 'Rubik', sans-serif;
-	background-image: url('http://localhost/city-idial-School/images/bangladesh.png');
+    background-color: red; /* This should always show */
+    font-family: 'Rubik', sans-serif;
 }
 
 
