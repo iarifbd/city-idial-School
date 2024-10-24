@@ -100,7 +100,23 @@
 
         <div class="container">
           <div class="row">
+            <div class="col-md-12">
+              <div class="card bg-light">
+                <div class="card-body text-danger">
+                  <marquee direction="left" scrollamount="5px" onmouseover="this.stop()" onmouseout="this.start()"> 
+                  ১০ম শ্রেণির প্রি-টেষ্ট ( প্রাক-নির্বাচনী ) পরীক্ষা প্রসঙ্গে। নোটিশে বিস্তারিত দেয়া আছে।
+                  </marquee>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="container">
+          <div class="row">
             <div class="col-md-9">
+              <!-- ---------9 COL sTART---------- -->   
+              <!-- History Start -->
               <div class="card">
                 <h5 class="card-header blue-card-header">প্রতিষ্ঠানের ইতিহাস</h5>
                 <div class="card-body">
@@ -109,43 +125,66 @@
                     <div class="col-8"><p class="card-text">শিক্ষার্থীদের সুশিক্ষার শিক্ষিত করার লক্ষ্যে খ্রিস্টাব্দ থেকে সিটি আইডিয়াল স্কুল এন্ড কলেজ প্রতিষ্ঠানটি পাঠদান করে আসছে। সিটি আইডিয়াল স্কুল এন্ড কলেজ প্রতিষ্ঠানটি প্রতিষ্ঠার পেছনের মূল উদ্দেশ্য ভবিষ্যতের চ্যালেঞ্জ মোকাবেলা করা সর্বশেষ জ্ঞান তথ্য যোগাযোগ দক্ষতা এবং বাংলাদেশের সাংস্কৃতিক ঐতিহ্যের সংবিধান সহ একটি দৃষ্টিভঙ্গি সম্পর্কে শিক্ষা.....<button>বিস্তারিত</button></p></div>
                   </div>
                 </div>
-              </div>             
+              </div> 
+              <!-- History END -->  
+              <!-- Introduction START -->  
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="card">
+                    <h5 class="card-header blue-card-header">সভাপতির বানী</h5>
+                    <div class="card-body">
+                      <div class="row">
+                        <div class="col-3"><img src="https://cityidealscrajshahi.com/public/ads/6641c1b7baca6.jpg" width="100px" height="100px"></div>
+                        <div class="col-9"><p class="card-text">শিক্ষার্থীদের সুশিক্ষার শিক্ষিত করার লক্ষ্যে খ্রিস্টাব্দ থেকে সিটি আইডিয়াল স্কুল এন্ড কলেজ প্রতিষ্ঠানটি পাঠদান করে আসছে। সিটি আইডিয়াল স্কুল এন্ড কলেজ প্রতিষ্ঠানটি প্রতিষ্ঠার পেছনের মূল উদ্দেশ্য ভবিষ্যতের চ্যালেঞ্জ মোকাবেলা করা.....<button>বিস্তারিত</button></p></div>
+                      </div>
+                    </div>
+                  </div>             
+                </div>
+                <div class="col-md-6">
+                  <div class="card">
+                    <h5 class="card-header blue-card-header">প্রিন্সিপালের বানী</h5>
+                    <div class="card-body">
+                      <div class="row">
+                        <div class="col-3"><img src="https://cityidealscrajshahi.com/public/ads/65eb56c21a347.png" width="100px" height="100px"></div>
+                        <div class="col-9"><p class="card-text">বাংলাদেশের শিক্ষা ব্যবস্থার একটি পূর্ণাঙ্গ ধারা মাদরাসা শিক্ষা। সাধারণ শিক্ষার পাশপাশি সমান্তরালভাবে এটি বয়ে চলেছে দীর্ঘদিন ধরে এবং এ দেশের জন-মানসে তার স্থান করে নিয়েছে সুরক্ষিত ও সুদৃঢ়ভাবে। ধর্মীয় শিক্ষা ও জাগতিক.....<button>বিস্তারিত</button></p></div>
+                      </div>
+                    </div>
+                  </div>             
+                </div>
+              </div>
+              <!-- Introduction end --> 
+             <!-- ---------9 COL eNS---------- -->           
             </div>
             <div class="col-md-3">
-              <div class="card">
-                <h5 class="card-header">Featured</h5>
+              <!-- ---------3 COL sTART---------- -->
+              <!-- TOP Board Start -->
+              <div class="card mt-2">
+                <h5 class="card-header"><i class="fa fa-arrow-right" aria-hidden="true"></i> পরীক্ষার ফলাফল</h5>
+              </div>
+              <div class="card mt-2">
+                <h5 class="card-header"><i class="fa fa-arrow-right" aria-hidden="true"></i>  নোটিশ</h5>
+              </div>
+              <div class="card mt-2">
+                <h5 class="card-header"><i class="fa fa-arrow-right" aria-hidden="true"></i> প্রতিষ্ঠানের ইতিহাস</h5>
+              </div>
+              <div class="card mt-2">
+                <h5 class="card-header"><i class="fa fa-arrow-right" aria-hidden="true"></i> ফটো গ্যালারী</h5>
+              </div>
+              <div class="card mt-2">
+                <h5 class="card-header"><i class="fa fa-arrow-right" aria-hidden="true"></i>  ভিডিও গ্যালারী</h5>
+              </div>              
+              <!-- Top Board End --> 
+              <!-- Notice Board Start -->
+              <div class="card mt-5">
+                <h5 class="card-header">নোটিশ বোর্ড</h5>
                 <div class="card-body">
                 <h5 class="card-title">Special title treatment</h5>
                 <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
                 <a href="#" class="btn btn-primary">Go somewhere</a>
                 </div>
-              </div>             
-            </div>
-          </div>
-        </div>
-
-        <div class="container">
-          <div class="row">
-            <div class="col-md-9">
-              <div class="card">
-                <h5 class="card-header blue-card-header">সভাপতির বানী</h5>
-                <div class="card-body">
-                  <div class="row">
-                    <div class="col-4"><img src="https://cityidealscrajshahi.com/public/ads/65e92ea6c0d0d.webp" width="300px" height="200px"></div>
-                    <div class="col-8"><p class="card-text">শিক্ষার্থীদের সুশিক্ষার শিক্ষিত করার লক্ষ্যে খ্রিস্টাব্দ থেকে সিটি আইডিয়াল স্কুল এন্ড কলেজ প্রতিষ্ঠানটি পাঠদান করে আসছে। সিটি আইডিয়াল স্কুল এন্ড কলেজ প্রতিষ্ঠানটি প্রতিষ্ঠার পেছনের মূল উদ্দেশ্য ভবিষ্যতের চ্যালেঞ্জ মোকাবেলা করা সর্বশেষ জ্ঞান তথ্য যোগাযোগ দক্ষতা এবং বাংলাদেশের সাংস্কৃতিক ঐতিহ্যের সংবিধান সহ একটি দৃষ্টিভঙ্গি সম্পর্কে শিক্ষা.....<button>বিস্তারিত</button></p></div>
-                  </div>
-                </div>
-              </div>             
-            </div>
-            <div class="col-md-3">
-              <div class="card">
-                <h5 class="card-header">Featured</h5>
-                <div class="card-body">
-                <h5 class="card-title">Special title treatment</h5>
-                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-                <a href="#" class="btn btn-primary">Go somewhere</a>
-                </div>
-              </div>             
+              </div>
+              <!-- Notice Board Start -->  
+              <!-- ---------3 COL eNS---------- -->           
             </div>
           </div>
         </div>
